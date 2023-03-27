@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="lightgod.png" width="488" height="240">
+  <SubTexture name="light0015_copy_117x89.png" x="0" y="0"  width="100" height="78" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0000_copy_117x89.png" x="100" y="0"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0001_copy_117x89.png" x="202" y="0"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0002_copy_117x89.png" x="304" y="0"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0003_copy_117x89.png" x="406" y="0" width="80" height="102" rotated="true"  frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0004_copy_117x89.png" x="0" y="80"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0005_copy_117x89.png" x="102" y="80"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0006_copy_117x89.png" x="204" y="80"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0007_copy_117x89.png" x="306" y="102"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0008_copy_117x89.png" x="408" y="102" width="80" height="102" rotated="true"  frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0009_copy_117x89.png" x="0" y="160"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0016_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0010_copy_117x89.png" x="0" y="160"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0011_copy_117x89.png" x="0" y="160"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0012_copy_117x89.png" x="0" y="160"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0013_copy_117x89.png" x="0" y="160"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0014_copy_117x89.png" x="0" y="160"  width="102" height="80" frameX="-8" frameY="-4" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0021_copy_117x89.png" x="0" y="0"  width="100" height="78" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0022_copy_117x89.png" x="0" y="0"  width="100" height="78" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0023_copy_117x89.png" x="0" y="0"  width="100" height="78" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0044_copy_117x89.png" x="0" y="0"  width="100" height="78" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0046_copy_117x89.png" x="0" y="0"  width="100" height="78" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0017_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0018_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0019_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0020_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0024_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0025_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0026_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0027_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0028_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0029_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0030_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0031_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0032_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0033_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0034_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0035_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0036_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0037_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0038_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0039_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0040_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0041_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0042_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0043_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0045_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0047_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0048_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0049_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0050_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0051_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0052_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0053_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0054_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+  <SubTexture name="light0055_copy_117x89.png" x="102" y="160"  width="102" height="80" frameX="-9" frameY="-5" frameWidth="117" frameHeight="89"/>
+</TextureAtlas>

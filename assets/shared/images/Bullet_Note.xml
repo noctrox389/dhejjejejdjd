@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bullet_Note.png">
+<SubTexture name="A0000" x="0" y="147" width="146" height="99" frameX="-2" frameY="-20" frameWidth="154" frameHeight="157" />
+<SubTexture name="B0000" x="0" y="0" width="100" height="147" frameX="-23" frameY="-7" frameWidth="157" frameHeight="154" />
+<SubTexture name="C0000" x="100" y="0" width="98" height="145" frameX="-32" frameY="-1" frameWidth="157" frameHeight="154" />
+<SubTexture name="D0000" x="198" y="0" width="148" height="101" frameX="-4" frameY="-35" frameWidth="154" frameHeight="157" />
+</TextureAtlas>

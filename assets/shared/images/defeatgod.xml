@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="defeatgod.png" width="436" height="260">
+  <SubTexture name="defeat0000_copy_109x65.png" x="0" y="0"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0001_copy_109x65.png" x="109" y="0"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0002_copy_109x65.png" x="218" y="0"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0003_copy_109x65.png" x="327" y="0"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0004_copy_109x65.png" x="0" y="65"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0005_copy_109x65.png" x="109" y="65"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0006_copy_109x65.png" x="218" y="65"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0007_copy_109x65.png" x="327" y="65"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0008_copy_109x65.png" x="0" y="130"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0009_copy_109x65.png" x="109" y="130"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0010_copy_109x65.png" x="218" y="130"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0011_copy_109x65.png" x="327" y="130"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0012_copy_109x65.png" x="0" y="195"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0013_copy_109x65.png" x="109" y="195"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+  <SubTexture name="defeat0014_copy_109x65.png" x="218" y="195"  width="109" height="65" frameX="-0" frameY="-0" frameWidth="109" frameHeight="65"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="blackgod1.png" width="2188" height="2288">
+  <SubTexture name="black down0006_copy_404x456.png" x="0" y="0" width="259" height="206" rotated="true"  frameX="-109" frameY="-131" frameWidth="404" frameHeight="456"/>
+  <SubTexture name="black right0005_copy_463x298.png" x="259" y="0" width="298" height="229" rotated="true"  frameX="-42" frameY="-0" frameWidth="463" frameHeight="298"/>
+  <SubTexture name="black left0003_copy_399x270.png" x="557" y="0"  width="384" height="230" frameX="-7" frameY="-40" frameWidth="399" frameHeight="270"/>
+  <SubTexture name="black left0004_copy_399x270.png" x="941" y="0"  width="349" height="230" frameX="-0" frameY="-40" frameWidth="399" frameHeight="270"/>
+  <SubTexture name="black left0002_copy_399x270.png" x="1290" y="0"  width="390" height="233" frameX="-8" frameY="-37" frameWidth="399" frameHeight="270"/>
+  <SubTexture name="black down0005_copy_404x456.png" x="1680" y="0" width="288" height="236" rotated="true"  frameX="-81" frameY="-97" frameWidth="404" frameHeight="456"/>
+  <SubTexture name="black left0005_copy_399x270.png" x="0" y="206"  width="258" height="238" frameX="-77" frameY="-24" frameWidth="399" frameHeight="270"/>
+  <SubTexture name="black left0001_copy_399x270.png" x="258" y="230"  width="393" height="236" frameX="-6" frameY="-34" frameWidth="399" frameHeight="270"/>
+  <SubTexture name="black left0000_copy_399x270.png" x="651" y="230"  width="392" height="255" frameX="-5" frameY="-15" frameWidth="399" frameHeight="270"/>
+  <SubTexture name="black right0002_copy_463x298.png" x="1043" y="233"  width="461" height="257" frameX="-0" frameY="-15" frameWidth="463" frameHeight="298"/>
+  <SubTexture name="black right0003_copy_463x298.png" x="1504" y="236"  width="456" height="257" frameX="-5" frameY="-19" frameWidth="463" frameHeight="298"/>
+  <SubTexture name="black idle remast0006_copy_289x288.png" x="0" y="444" width="258" height="267" rotated="true"  frameX="-5" frameY="-30" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0004_copy_289x288.png" x="258" y="466"  width="268" height="258" frameX="-3" frameY="-30" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black up0005_copy_461x375.png" x="526" y="485"  width="430" height="257" frameX="-0" frameY="-73" frameWidth="461" frameHeight="375"/>
+  <SubTexture name="black idle remast0005_copy_289x288.png" x="956" y="490"  width="269" height="258" frameX="-3" frameY="-30" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0007_copy_289x288.png" x="1225" y="490"  width="268" height="258" frameX="-6" frameY="-30" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0003_copy_289x288.png" x="1493" y="493"  width="267" height="259" frameX="-1" frameY="-29" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0008_copy_289x288.png" x="1760" y="493"  width="268" height="259" frameX="-7" frameY="-29" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0009_copy_289x288.png" x="0" y="724"  width="267" height="259" frameX="-9" frameY="-29" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0001_copy_289x288.png" x="267" y="742"  width="266" height="261" frameX="-0" frameY="-27" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0002_copy_289x288.png" x="533" y="742"  width="267" height="261" frameX="-0" frameY="-27" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0010_copy_289x288.png" x="800" y="748"  width="266" height="261" frameX="-10" frameY="-27" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0011_copy_289x288.png" x="1066" y="748"  width="266" height="263" frameX="-10" frameY="-25" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black right0001_copy_463x298.png" x="1332" y="752"  width="462" height="261" frameX="-0" frameY="-11" frameWidth="463" frameHeight="298"/>
+  <SubTexture name="black idle remast0016_copy_289x288.png" x="1794" y="752" width="271" height="263" rotated="true"  frameX="-7" frameY="-17" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0000_copy_289x288.png" x="0" y="983"  width="266" height="265" frameX="-0" frameY="-23" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0015_copy_289x288.png" x="266" y="1003" width="271" height="264" rotated="true"  frameX="-8" frameY="-17" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0017_copy_289x288.png" x="537" y="1009" width="272" height="264" rotated="true"  frameX="-6" frameY="-16" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0018_copy_289x288.png" x="809" y="1011" width="272" height="264" rotated="true"  frameX="-5" frameY="-16" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0019_copy_289x288.png" x="1081" y="1013" width="272" height="264" rotated="true"  frameX="-4" frameY="-16" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0021_copy_289x288.png" x="1353" y="1013" width="272" height="264" rotated="true"  frameX="-3" frameY="-16" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0022_copy_289x288.png" x="1625" y="1015" width="271" height="264" rotated="true"  frameX="-2" frameY="-17" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0023_copy_289x288.png" x="1896" y="1015" width="270" height="264" rotated="true"  frameX="-1" frameY="-18" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0012_copy_289x288.png" x="0" y="1248"  width="265" height="267" frameX="-11" frameY="-21" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0024_copy_289x288.png" x="265" y="1267" width="268" height="264" rotated="true"  frameX="-1" frameY="-20" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0013_copy_289x288.png" x="533" y="1273" width="269" height="265" rotated="true"  frameX="-10" frameY="-19" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0014_copy_289x288.png" x="802" y="1275" width="269" height="265" rotated="true"  frameX="-9" frameY="-19" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black idle remast0020_copy_289x288.png" x="1071" y="1277" width="272" height="265" rotated="true"  frameX="-3" frameY="-16" frameWidth="289" frameHeight="288"/>
+  <SubTexture name="black right0004_copy_463x298.png" x="1343" y="1279"  width="385" height="265" frameX="-51" frameY="-23" frameWidth="463" frameHeight="298"/>
+  <SubTexture name="black right0000_copy_463x298.png" x="1728" y="1279"  width="460" height="270" frameX="-3" frameY="-5" frameWidth="463" frameHeight="298"/>
+  <SubTexture name="black up0004_copy_461x375.png" x="0" y="1531"  width="408" height="309" frameX="-20" frameY="-44" frameWidth="461" frameHeight="375"/>
+  <SubTexture name="black up0003_copy_461x375.png" x="408" y="1538"  width="381" height="320" frameX="-29" frameY="-46" frameWidth="461" frameHeight="375"/>
+  <SubTexture name="black up0000_copy_461x375.png" x="789" y="1542"  width="424" height="321" frameX="-24" frameY="-47" frameWidth="461" frameHeight="375"/>
+  <SubTexture name="black up0001_copy_461x375.png" x="1213" y="1544"  width="436" height="327" frameX="-25" frameY="-45" frameWidth="461" frameHeight="375"/>
+  <SubTexture name="black up0002_copy_461x375.png" x="1649" y="1549"  width="424" height="335" frameX="-31" frameY="-40" frameWidth="461" frameHeight="375"/>
+  <SubTexture name="black down0004_copy_404x456.png" x="0" y="1840" width="362" height="347" rotated="true"  frameX="-30" frameY="-42" frameWidth="404" frameHeight="456"/>
+  <SubTexture name="black down0000_copy_404x456.png" x="362" y="1858" width="385" height="383" rotated="true"  frameX="-11" frameY="-20" frameWidth="404" frameHeight="456"/>
+  <SubTexture name="black down0003_copy_404x456.png" x="747" y="1863" width="404" height="398" rotated="true"  frameX="-3" frameY="-7" frameWidth="404" frameHeight="456"/>
+  <SubTexture name="black down0001_copy_404x456.png" x="1151" y="1871" width="403" height="400" rotated="true"  frameX="-2" frameY="-3" frameWidth="404" frameHeight="456"/>
+  <SubTexture name="black down0002_copy_404x456.png" x="1554" y="1884" width="410" height="404" rotated="true"  frameX="-0" frameY="-3" frameWidth="404" frameHeight="456"/>
+</TextureAtlas>

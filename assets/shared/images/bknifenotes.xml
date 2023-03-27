@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bknifenotes.png">
+<SubTexture name="blue0000" x="58" y="0" width="57" height="148" frameX="-49" frameY="-1" frameWidth="157" frameHeight="154" />
+<SubTexture name="green0000" x="0" y="0" width="58" height="149" frameX="-53" frameY="-5" frameWidth="157" frameHeight="154" />
+<SubTexture name="purple0000" x="115" y="0" width="150" height="58" frameX="-4" frameY="-36" frameWidth="154" frameHeight="157" />
+<SubTexture name="red0000" x="115" y="58" width="150" height="58" frameX="-3" frameY="-37" frameWidth="154" frameHeight="157" />
+</TextureAtlas>

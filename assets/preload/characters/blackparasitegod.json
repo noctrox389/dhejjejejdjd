@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				673
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BLACK UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				-90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "abomination black idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				726,
+				330
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left  instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-484,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right ske instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				276,
+				479
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "black down instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackparasitegod1",
+	"position": [
+		60,
+		-70
+	],
+	"healthicon": "blackgod1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-503,
+		570
+	],
+	"sing_duration": 6,
+	"scale": 5
+}
